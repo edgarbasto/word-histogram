@@ -124,10 +124,4 @@ def main():
 
 main()
 
-'''
 
-texto = 'Era uma vez um porco que cantava e falava. O porco cantava mal e porco.'
-a = Texto(texto)
-for i in a.objetosPalavras:
-    print(i.palavra)
-'''
